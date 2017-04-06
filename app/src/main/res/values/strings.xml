@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Investigacion</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_form_activities">FormActivities</string>
+    <string-array name="Type">
+        <item>"Obtaculo"</item>
+        <item>"Clima"</item>
+        <item>"Terreno"</item>
+    </string-array>
+</resources>
